@@ -1,5 +1,26 @@
 # Employment and Economic Impact
 
+1. McKinsey Global Institute – The economic potential of generative AI
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai
+2. Cognizant & Oxford Economics – The Impact of Generative AI on the U.S. Economy
+https://www.cognizant.com/us/en/insights/perspectives/the-impact-of-generative-ai-on-the-us-economy
+3. Goldman Sachs – Generative AI: The Productivity Revolution
+https://www.goldmansachs.com/insights/pages/generative-ai-could-raise-global-gdp-by-7-percent.html
+4. IMF – GenAI and the Future of Work (Blog summary)
+https://www.imf.org/en/Blogs/Articles/2024/01/14/genai-and-the-future-of-work
+5. IMF – Working Papers on AI & Labor
+https://www.imf.org/en/Publications/WP
+6. OECD Employment Outlook 2023 – AI, Productivity and Jobs
+https://www.oecd.org/employment-outlook/
+7. IZA World of Labor – Artificial intelligence and labor markets
+https://wol.iza.org/articles/artificial-intelligence-and-labor-markets
+8. arXiv – GPTs are GPTs: An Early Look at the Labor Market Impact Potential of LLMs
+https://arxiv.org/abs/2303.10130
+9. arXiv – Beyond Substitution: The Complementarity of AI and Human Labor
+https://arxiv.org/abs/2311.08043
+10. Bank of America – AI & The Economy (Global Research)
+https://research.bankofamerica.com
+
 # AI in Warfare and Security
 
 # Ethical AI Design and Development
