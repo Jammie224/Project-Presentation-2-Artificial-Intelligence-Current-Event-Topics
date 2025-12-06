@@ -28,23 +28,20 @@ This means different and new skills will need to be developed in the workforce i
 ***[slide 7]***
 
 Moving on to how AI affects Warfare & Security
-Over 30 countries are developing or deploying some form of autonomous weapon system
-Major concern: “human-out-of-the-loop” weapons could make lethal decisions without oversight
-AI-Driven Surveillance & Security
-Mass Surveillance
-China operates the world’s largest camera network with over 700 million cameras, many using facial recognition AI.
-Predictive policing AI is already deployed in at least 60 police departments in the U.S.
-AI-enabled surveillance tools can identify people, track movement, or detect behavioral anomalies in real time.
 
-Cybersecurity & Defence
-Cyberattacks using generative AI tools increased by over 200% in 2024 alone.
-AI can automatically generate malware, find vulnerabilities, or break weak encryption at scale.
-AI-Enabled Information Warfare
-•	Deepfake production increased by 900% between 2019 and 2024, driven by easy-to-use AI tools.
-•	In 2024, major elections saw millions of people exposed to AI-generated political misinformation.
-•	Deepfake audio can now replicate a voice with just 3 seconds of training data.
-Military Propaganda & Psychological Operations
-Military Decision-making
+Over 30 countries are developing or deploying some form of autonomous weapon system, and the obvious major concern is that these “human-out-of-the-loop” weapons could make lethal decisions without a second opinion!
+
+AI is also used for Mass Surveillance. For example, China operates the world’s largest camera network with over 700 million cameras, many using facial recognition AI. And the US is also using Predictive policing AI.
+
+***[slide 8]***
+
+Now what is happening *online*?
+
+Cyberattacks using GenAI increased by over 200% in 2024 alone.
+
+It's honestly not that surprising because AI can automatically generate malware, find vulnerabilities, or break weak encryption at scale.
+
+And of course, deepfakes and political misinformation is becoming a huge concern as well
 
 3.	Ethical AI Design and Development
 Human-Centered AI places human needs, values, and abilities at the core of AI system design. These include:
