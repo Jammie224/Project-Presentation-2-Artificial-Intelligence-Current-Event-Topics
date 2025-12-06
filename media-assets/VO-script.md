@@ -5,7 +5,7 @@ Hi there! Welcome to our presentation on AI Ethics. We will be focusing on Gener
 
 ***[slide 2]***
 
-First of all, here is a brief definition of GenAI: it is AI that creates text, images, audio, codes, etc. It is popular in healthcare, finance, retail and education due to its high accuracy and easy access.
+First of all, here is a brief definition of GenAI: it is AI that creates text, images, audio, codes, etc. It is popular in various industries due to its high accuracy and easy access.
 
 # 1.  Employment & Economic Impact of AI
 ***[slide 3]***
@@ -14,10 +14,10 @@ Regarding its economic impact, Generative AI has a huge potential to boost produ
 
 ***[slide 4]***
 
-However, this means that human-led jobs could be jeopardized. About 6-7% of the US employment could be displaced if AI is widely adopted.
+However, this means that human-led jobs could be jeopardized.
 
 ***[slide 5]***
-There’s research from IMF and OECD suggesting that “augmentation AI” (meaning AI that helps people work better) raises wages in high-skilled occupations, whereas “automation AI” (meaning AI that replaces work) reduces wages and jobs in lower-skilled ones.
+There’s research from IMF and OECD suggesting that “augmentation AI” (meaning AI that helps people work better) raises wages in high-skilled occupations, whereas “automation AI” (meaning AI that replaces work) reduces wages in lower-skilled ones.
 
 ***[slide 6]***
 Goldman Sachs argues that many of the job displacements will be temporary, with new jobs emerging.
@@ -29,9 +29,9 @@ This means different and new skills will need to be developed in the workforce i
 
 Moving on to how AI affects Warfare & Security
 
-Over 30 countries are developing or deploying some form of autonomous weapon system, and the obvious major concern is that these “human-out-of-the-loop” weapons could make lethal decisions without a second opinion!
+Over 30 countries are using some form of autonomous weapon system, and the obvious major concern here is that these “human-out-of-the-loop” weapons could make lethal decisions without a second opinion!
 
-AI is also used for Mass Surveillance. For example, China operates the world’s largest camera network with over 700 million cameras, many using facial recognition AI. And the US is also using Predictive policing AI.
+AI is also used for Mass Surveillance since it can identify people, track movement, or detect behavioral anomalies in real time.
 
 ***[slide 8]***
 
@@ -39,7 +39,7 @@ Now what is happening *online*?
 
 Cyberattacks using GenAI increased by over twofold in 2024 alone.
 
-It's honestly not that surprising because AI can automatically generate malware, find vulnerabilities, or break weak encryption at scale.
+It's honestly not that surprising because AI can generate malware, find vulnerabilities, or break weak encryption at scale.
 
 And of course, deepfakes and political misinformation is becoming a huge concern as well.
 
