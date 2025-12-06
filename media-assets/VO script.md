@@ -1,17 +1,33 @@
-[slide 1]
-Hi there! Welcome to our presentation on AI Ethics. We will be focusing on Generative AI and how it affects employment and the economy.
-First of all, here is a brief definition of GenAI. It is AI that creates text, images, audio, codes, etc. It is popular in healthcare, finance, retail and education due to its high accuracy and easy access.
-Regarding its economic impact, Generative AI has a huge potential to boost productivity, with an estimated 2.6-4.4 trillion USD in possible annual gain.
-However, this means that human-led jobs could be jeopardized. About 6-7% of the US employment could be displaced if AI
-1.	Employment & Economic Impact of AI
-Generative AI has huge potential to boost productivity. McKinsey estimates that generative AI could create US$ 2.6–4.4 trillion in annual value across many use cases.
-About 6–7% of U.S. employment could be displaced if AI is widely adopted.
-Goldman Sachs argues many of the displacements will be temporary, with new jobs emerging.
-There’s research (such as IMF, OECD, IZA) suggesting that “augmentation AI” (AI that helps people work better) raises wages in high-skilled occupations, whereas “automation AI” (AI that replaces work) reduces wages and jobs in lower-skilled ones.
-Another (very recent) academic paper argues that complement effects (AI boosting demand for certain human skills) might be 50% larger than substitution effects (AI replacing people), meaning net job creation in some skill areas. (basically different and new skills need to be developed in the workforce)
+# Intro
+***[slide 1]***
 
-2.	AI in Warfare & Security
-Autonomous Weapons & Battlefield Automation
+Hi there! Welcome to our presentation on AI Ethics. We will be focusing on Generative AI and how it affects employment and the economy.
+
+***[slide 2]***
+
+First of all, here is a brief definition of GenAI: it is AI that creates text, images, audio, codes, etc. It is popular in healthcare, finance, retail and education due to its high accuracy and easy access.
+
+# 1.	Employment & Economic Impact of AI
+***[slide 3]***
+
+Regarding its economic impact, Generative AI has a huge potential to boost productivity, with an estimated 2.6-4.4 trillion USD in possible annual gain.
+
+***[slide 4]***
+
+However, this means that human-led jobs could be jeopardized. About 6-7% of the US employment could be displaced if AI is widely adopted.
+
+***[slide 5]***
+There’s research from IMF and OECD suggesting that “augmentation AI” (meaning AI that helps people work better) raises wages in high-skilled occupations, whereas “automation AI” (meaning AI that replaces work) reduces wages and jobs in lower-skilled ones.
+
+***[slide 6]***
+Goldman Sachs argues that many of the job displacements will be temporary, with new jobs emerging.
+
+This means different and new skills will need to be developed in the workforce if we want to ensure job stability.
+
+# 2.	AI in Warfare & Security
+***[slide 7]***
+
+Moving on to how AI affects Warfare & Security
 Over 30 countries are developing or deploying some form of autonomous weapon system
 Major concern: “human-out-of-the-loop” weapons could make lethal decisions without oversight
 AI-Driven Surveillance & Security
@@ -19,6 +35,7 @@ Mass Surveillance
 China operates the world’s largest camera network with over 700 million cameras, many using facial recognition AI.
 Predictive policing AI is already deployed in at least 60 police departments in the U.S.
 AI-enabled surveillance tools can identify people, track movement, or detect behavioral anomalies in real time.
+
 Cybersecurity & Defence
 Cyberattacks using generative AI tools increased by over 200% in 2024 alone.
 AI can automatically generate malware, find vulnerabilities, or break weak encryption at scale.
