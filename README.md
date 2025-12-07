@@ -11,6 +11,7 @@ AI is creating major economic value and boosting productivity, but it also bring
 
 
 ## Link to YouTube video
+[Group 2 Presentation - GenAI Impact and Ethics](https://youtu.be/qv-ewzpqd0I)
 
 
 ## Final Question
