@@ -20,4 +20,4 @@ How can society balance rapid AI innovation with the need to protect workers, pr
 ## Contributions
 - Research and script: Timur Zhaken、Jammie Chen
 - Audio Production/Narrator and Video Production: Judy Nguyen
-- PowerPoint and presentation: Saad Mdawar
+- PowerPoint: Saad Mdawar
